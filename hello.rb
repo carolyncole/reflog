@@ -1,2 +1,2 @@
 puts "Hello everyone featurea"
-puts "Hello everyonei feature b"
+puts "Hello everyone feature b"
